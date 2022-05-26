@@ -1,13 +1,7 @@
-This is the starter site project & all course files for the Next.js & Netlify Identity tutorial on the Net Ninja YouTube channel. Check out the [full tutorial here](https://www.youtube.com/playlist?list=PL4cUxeGkcC9i4g-0dAaMmFAyM6k3FmuZz).
+This is a Next.js & Netlify Identity tutorial by the Net Ninja YouTube channel. Check out the [full tutorial here](https://www.youtube.com/playlist?list=PL4cUxeGkcC9i4g-0dAaMmFAyM6k3FmuZz).
 
-### Getting Started
-To install the starter project:
-```
-npx create-next-app [your_site_name] -e https://github.com/iamshaunjp/next-netlify-identity/tree/lesson-1-starter
-```
-
-### Other Lessons
-To view the code for a specific lesson, select that lesson from the branch dropdown (top-left).
+### Notes
+There have been a few updates to Netlify since this tutorial came out. It looks like the login/setup doesn't connect when using the development server. Will add more here as I find out other problems.
 
 ### Image Credit (for use in project)
 Rupee icon - [https://game-icons.net/1x1/delapouite/rupee.html](https://game-icons.net/1x1/delapouite/rupee.html)
